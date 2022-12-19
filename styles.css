@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+
+div{
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    padding-top: 250px;
+    padding-bottom: 20px;
+}
+
+p{
+    padding-bottom: 20px;
+}
+
+.main{
+    text-align: center;
+    
+}
+
+.btn{
+    display: flex;
+    margin-left: 25%;
+    width: 50%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.btn1{
+    margin-left: 35%;
+}
+
+.btn2{
+    margin-right: 35%;
+}
